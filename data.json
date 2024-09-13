@@ -7,7 +7,7 @@
         "ip": "8.8.8.8"
       }
     },
-    "bob": {
+    "bobs": {
       "roles": ["employee", "billing"],
       "location": {
         "country": "US",
