@@ -1,5 +1,5 @@
 package rbac
 
 allow {
-	true
+	false
 }
